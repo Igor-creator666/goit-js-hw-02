@@ -1,4 +1,4 @@
-function getShippingCost(country) {
+function isEven(number) {
   let price;
 
   switch (country) {
